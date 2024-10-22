@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "title": "Mastering React: Advanced Techniques",
+      "author": "Jane Doe",
+      "cover": "https://i.ibb.co.com/VSRCR0B/3.png",
+      "author_img": "https://i.ibb.co.com/chybPTn/boy1.png",
+      "reading_time": 15 ,
+      "hashtags": ["#React", "#JavaScript", "#Advanced"],
+      "post": "https://example.com/post1"
+    },
+    {
+      "id": 2,
+      "title": "Building Responsive UIs with React",
+      "author": "John Smith",
+      "cover": "https://i.ibb.co.com/0nVth7P/4.jpg",
+      "author_img": "https://i.ibb.co.com/djT9bCX/boy2.jpg",
+      "reading_time": 10 ,
+      "hashtags": ["#UI", "#React", "#Responsive"],
+      "post": "https://example.com/post2"
+    },
+    {
+      "id": 3,
+      "title": "State Management in React Applications",
+      "author": "Alice Johnson",
+      "cover": "https://i.ibb.co.com/Vt3KS0X/1.jpg",
+      "author_img": "https://i.ibb.co.com/6gsWKmW/girl1.jpg",
+      "reading_time": 20,
+      "hashtags": ["#StateManagement", "#React", "#Redux"],
+      "post": "https://example.com/post3"
+    },
+    {
+      "id": 4,
+      "title": "Optimizing React Performance",
+      "author": "Bob Brown",
+      "cover": "https://i.ibb.co.com/0nVth7P/4.jpg" ,
+      "author_img": "https://i.ibb.co.com/GMv0cTn/girl2.jpg",
+      "reading_time": 12,
+      "hashtags": ["#Performance", "#React", "#Optimization"],
+      "post": "https://example.com/post4"
+    }
+   
+  ]
+  
